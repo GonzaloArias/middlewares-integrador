@@ -1,1 +1,17 @@
-[]
+[
+ {
+  "id": 0
+ },
+ {
+  "id": 1,
+  "email": "gonza_95lp@hotmail.com",
+  "password": "$2b$10$W5nQ09OnwFsiNn0D7Z0DVOyDiQchtwE2ItmTsaj8gE6Es8LLfKnJO",
+  "avatar": "avatar-1612390842856.jpg"
+ },
+ {
+  "id": 2,
+  "email": "gonzi_95lp@hotmail.com",
+  "password": "$2b$10$f5beUjKImQIXVQxDE7prUunuuNB48Vizlz343yga3V87WS1CdkY0q",
+  "avatar": "avatar-1612391086795.jpg"
+ }
+]
